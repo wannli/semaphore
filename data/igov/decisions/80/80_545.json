@@ -17,7 +17,7 @@
   "ED_OriginatingBody": "Plenary ",
   "ED_DecisionText": "\nAt its 105th plenary meeting, on 21 July 2026, the General Assembly, on the proposal of its President, decided to allow Etienne Krug, Director of the Department for Health Determinants, Promotion and Prevention at the World Health Organization, to present the summaries of multi-stakeholder panels one and two; and Nawal El Moutawakel to deliver a statement as an eminent high-level champion of road safety in accordance with resolution 80/247 at the closing segment of the high-level meeting on improving global road safety.\n",
   "ED_Disclaimer": "The final text of this decision will be contained in document A/80/49 (Vol. III) after editorial review.",
-  "ED_MarkNew": true,
+  "ED_MarkNew": false,
   "ED_MarkUpdated": false,
   "__v": 0,
   "DEC_NotificationSent": true,

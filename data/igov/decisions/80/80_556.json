@@ -17,7 +17,7 @@
   "ED_OriginatingBody": "Plenary ",
   "ED_DecisionText": "At its 115th plenary meeting, on 4 September 2026, the General Assembly decided to include the item entitled \u201cImplementation of the resolutions of the United Nations\u201d in the draft agenda of the eighty-first session.  ",
   "ED_Disclaimer": "The final text of this decision will be contained in document A/80/49 (Vol. III) after editorial review. ",
-  "ED_MarkNew": true,
+  "ED_MarkNew": false,
   "ED_MarkUpdated": false,
   "__v": 0,
   "DEC_NotificationSent": true,
